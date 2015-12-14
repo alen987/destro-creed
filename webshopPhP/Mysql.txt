@@ -1,0 +1,4 @@
+$mysql_host = "mysql1.000webhost.com";
+$mysql_database = "a1374054_ANEXAMP";
+$mysql_user = "a1374054_CR3DIT";
+$mysql_password = "S1NCMASTER";
